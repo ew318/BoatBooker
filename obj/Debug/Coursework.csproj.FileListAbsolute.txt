@@ -1,0 +1,14 @@
+C:\Users\emiwat01\Documents\Visual Studio 2017\Projects\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\emiwat01\Documents\Visual Studio 2017\Projects\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\emiwat01\Documents\Visual Studio 2017\Projects\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\emiwat01\Documents\Visual Studio 2017\Projects\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\emiwat01\Documents\Visual Studio 2017\Projects\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\emiwat01\Documents\Visual Studio 2017\Projects\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\emiwat01\Documents\Visual Studio 2017\Projects\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\emiwat01\OneDrive - ARM\Documents\Visual Studio 2017\Projects\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\emiwat01\OneDrive - ARM\Documents\Visual Studio 2017\Projects\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\emiwat01\OneDrive - ARM\Documents\Visual Studio 2017\Projects\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\emiwat01\OneDrive - ARM\Documents\Visual Studio 2017\Projects\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\emiwat01\OneDrive - ARM\Documents\Visual Studio 2017\Projects\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\emiwat01\OneDrive - ARM\Documents\Visual Studio 2017\Projects\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\emiwat01\OneDrive - ARM\Documents\Visual Studio 2017\Projects\Coursework\Coursework\obj\Debug\Coursework.pdb
